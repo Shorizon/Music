@@ -1,0 +1,8 @@
+{
+  "name": "Intro to React",
+  "version": "1.0.0",
+  "description": "Some example React code to help teach people about **S**ingle **P**age **A**pplications (SPAs) and the use of React",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
